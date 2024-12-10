@@ -29,5 +29,5 @@ More information on [pqina.nl/building-birthdate-input-custom-element](https://p
   </birthdate-input>
 </fieldset>
 
-<script src="birthdate-input.js"></script>
+<script type="module" src="birthdate-input.js"></script>
 ```
