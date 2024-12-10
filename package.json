@@ -1,0 +1,18 @@
+{
+  "name": "@pqina/birthdate-input",
+  "version": "0.0.1",
+  "description": "An easy way to create a birthdate input field",
+  "main": "birthdate-input.js",
+  "module": "birthdate-input.js",
+  "author": {
+    "name": "Rik Schennink at PQINA",
+    "url": "https://pqina.nl/"
+  },
+  "homepage": "https://pqina.nl/",
+  "license": "MIT",
+  "type": "module",
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  }
+}
