@@ -10,7 +10,7 @@ Or download and copy the `birthdate-input.js` file to your project.
 
 Optionally set the `locale` attribute to override the browser locale.
 
-More information on [pqina.nl/building-birthdate-input-custom-element](https://pqina.nl/building-birthdate-input-custom-element/)
+More information on [pqina.nl](https://pqina.nl/blog/building-birthdate-input-custom-element/)
 
 ```html
 <fieldset>
